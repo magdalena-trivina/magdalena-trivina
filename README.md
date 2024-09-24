@@ -9,8 +9,7 @@
         experienced : ["C#", "Java", "Python", "HTML", "JavaScript" ],
         want-to-learn : ["React", "Kotlin", "Flutter", "Go", Node.js" ], 
 
-        hobbies : ["I like reading books/watching YouTube videos that make me smarter",
-         "travel, cause I live in Indonesia, so... other countries are always more interesting"]
+        hobbies : ["Meditate", "Sleep", "Drive"]
     }
 }
 ```
