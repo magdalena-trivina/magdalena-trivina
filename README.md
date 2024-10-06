@@ -6,7 +6,7 @@
         name : "Magdalena Trivina Sihotang",
         nickname : "Lena"
         country : "Indonesia",
-        experienced : ["C#", "Java", "Python", "HTML", "JavaScript", "React.js", "Web Programming"],
+        experienced : ["C#", "Java", "Python", "HTML", "JavaScript", "React.js", "Node.js"],
         learning : ["Android", "Kotlin"],
         want-to-learn : ["Flutter", "Go", "Machine Learning"], 
 
