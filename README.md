@@ -7,10 +7,10 @@
         nickname : "Lena"
         country : "Indonesia",
         experienced : ["C#", "Java", "Python", "HTML", "JavaScript", "React.js", "Node.js"],
-        learning : ["Android", "Kotlin"],
-        want-to-learn : ["Flutter", "Go", "Machine Learning"], 
+        learning : ["Android app", "Kotlin", "Machine Learning", "AI"],
+        want-to-learn : ["Flutter", "Go", "iOS app"], 
 
-        hobbies : ["Meditate", "Sleep", "Drive"]
+        hobbies : ["Meditate", "Sleep", "Drive", "Run"]
     }
 }
 ```
