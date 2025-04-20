@@ -6,8 +6,8 @@
         name : "Magdalena Trivina Sihotang",
         nickname : "Lena"
         country : "Japan",
-        experienced : ["C#", "Java", "Python", "HTML", "JavaScript", "React.js", "Node.js"],
-        learning : ["Kotlin", "Machine Learning", "c++ for real"],
+        experienced : ["C#", "Java", "Python", "HTML", "JavaScript", "Pre-Modern C++", "React.js", "Node.js"],
+        learning : ["Kotlin", "Machine Learning", "Modern C++"],
         want-to-learn : ["Flutter", "Go", "Rust"], 
         languages : ["English", "Japanese", "ein bisschen Deutsch", "a short attempt with Chinese and Korean"], 
         hobbies : ["sleeping", "driving", "Deutsch lernen", "running"]
