@@ -7,10 +7,10 @@
         nickname : "Lena"
         country : "Japan",
         experienced : ["C#", "Java", "Python", "HTML", "JavaScript", "React.js", "Node.js"],
-        learning : ["Android app", "Kotlin", "Machine Learning", "AI"],
-        want-to-learn : ["c++ for real", "Flutter", "Go", "iOS app"], 
-
-        hobbies : ["Meditate", "Sleep", "Drive", "Run"]
+        learning : ["Kotlin", "Machine Learning", "c++ for real"],
+        want-to-learn : ["Flutter", "Go", "Rust"], 
+        languages : ["English", "Japanese", "ein bisschen Deutsch", "a short attempt with Chinese and Korean"], 
+        hobbies : ["sleeping", "driving", "Deutsch lernen", "running"]
     }
 }
 ```
