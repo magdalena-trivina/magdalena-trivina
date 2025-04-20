@@ -5,10 +5,10 @@
     myself : {
         name : "Magdalena Trivina Sihotang",
         nickname : "Lena"
-        country : "Indonesia",
+        country : "Japan",
         experienced : ["C#", "Java", "Python", "HTML", "JavaScript", "React.js", "Node.js"],
         learning : ["Android app", "Kotlin", "Machine Learning", "AI"],
-        want-to-learn : ["Flutter", "Go", "iOS app"], 
+        want-to-learn : ["c++ for real", "Flutter", "Go", "iOS app"], 
 
         hobbies : ["Meditate", "Sleep", "Drive", "Run"]
     }
